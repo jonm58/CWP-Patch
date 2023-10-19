@@ -1,2 +1,2 @@
 # CWP-Patch
-在PaleMoon中修复中文网页
+通过UA在PaleMoon中修复中文网页
